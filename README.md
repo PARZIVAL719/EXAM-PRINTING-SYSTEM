@@ -70,11 +70,3 @@ The **Exam Printing System** is a PHP and SQL-based application designed to stre
 
    - Open a web browser and navigate to `http://localhost/EXAM_PRINTING_SYSTEM` (or the folder name where the project is located).
 
-## **Contributing**
-
-Contributions are welcome! Please fork this repository, create a new branch for your feature or bug fix, and submit a pull request.
-
-## **License**
-
-This project is licensed under the [MIT License](LICENSE).
-
